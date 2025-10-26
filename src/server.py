@@ -1,0 +1,3 @@
+"""
+FastMCP server & tool definitions
+"""

@@ -1,0 +1,16 @@
+[[sources]]
+type = "local"
+path ="/Users/you/Documents/Notes"
+enabled = true
+
+[[sources]]
+type = "github"
+repo = "username/repo-name"
+path = "notes/"
+branch = "main"
+enabled = true
+
+[[sources]]
+type = "google-drive"
+folder_id = "1a2b3c4d5e6f"
+enabled = true
