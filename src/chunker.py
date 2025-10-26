@@ -1,3 +1,0 @@
-"""
-Document chunking logic
-"""

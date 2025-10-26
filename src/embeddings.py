@@ -1,3 +1,0 @@
-"""
-Embedding model wrapper
-"""
